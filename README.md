@@ -1,0 +1,2 @@
+# GooseDesktopRubberDucky
+RubberDucky GooseDesktop Prank
