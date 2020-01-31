@@ -1,0 +1,46 @@
+Holy shoot, you actually opened the readme. Good for you!
+
+Greetings, and welcome to v0.2 of DESKTOP GOOSE!
+
+~~~~~ NEW IN VERSION 0.2 ~~~~~
+ - UNLIMITED MEMES! Add whatever images you want to the memes folder, and the goose will pull them up!
+ - GIF SUPPORT! Add GIFs to the meme folder and Goose will bring you your infinite video
+ - HACK THE GOOSE! Adjust his aggression and a few other parameters, by opening config.goos in Notepad! More customization to come...
+
+
+-- HOW TO USE --
+Hold ESC to exit (you'll need to hold it for a couple seconds!)
+
+Want to enable secret music? Navigate to Assets/Sounds/Music, and rename the file there to "Music.mp3"
+Or place any file there, name it "Music.mp3", and goose will attempt to play it on startup
+
+Please message me your goose antics on Twitter @samnchiet, or any other means. I'd love to see it.
+
+-- Support my work! --
+twitter.com/samnchiet
+patreon.com/sammakesvr
+...just search "Sam Chiet" on YouTube.
+
+
+Special thanks to all my patrons, who made this possible. You're heroes.
+And huge shouts to the friendly people in my Discord/Twitter who helped test this and provided feedback!
+And to the MOD COMMUNITY that's starting up in the discord!
+
+
+
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-Some legal stuff-
+Honks sampled from Untitled Goose Game (go play it!)
+
+SOFTWARE PROVIDED AS IS, WITHOUT WARRANTY you've seen all this before
+in summary, I AM NOT LIABLE IF YOU DO SOMETHING LIKE USE THE GOOSE TO TRY AND FILE YOUR TAXES, OR IF THE GOOSE DAMAGES YOU SOMEHOW
+
+THAT IS FULLY ON YOU.
+
+Also, don't redistribute this software on your own! Link back to the itch page (on samperson.itch.io), or better yet, the YouTube video when that comes out. :)
+If you got this from a source 
