@@ -3,3 +3,6 @@ wget "https://github.com/csandoval63/GooseDesktopRubberDucky/blob/master/Desktop
 Expand-Archive .\Goose.zip
 cd Goose
 .\GooseDesktop.exe
+cd ..
+Remove-Item .\Goose.zip
+exit
