@@ -11,7 +11,7 @@ ALT y
 DELAY 200
 STRING mode con:cols=18 lines=1
 ENTER
-REM *** Actually activating the powershell files ***
+REM ***sets up executionpolicy ***
 STRING Set-ExecutionPolicy unrestricted
 ENTER
 DELAY 800
@@ -22,6 +22,7 @@ ENTER
 STRING ./helloGoose.ps1 "parameter title"
 ENTER
 DELAY 800
+REM *** undoes executionpolicy ***
 STRING Set-ExecutionPolicy unrestricted
 ENTER
 DELAY 800
