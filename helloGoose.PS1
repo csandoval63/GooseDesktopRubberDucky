@@ -5,4 +5,6 @@ cd Goose
 .\GooseDesktop.exe
 cd ..
 Remove-Item .\Goose.zip
+cd C:\Windows\System32
+Remove-Item .\helloGoose.ps1
 exit
