@@ -1,5 +1,5 @@
 # GooseDesktopRubberDucky
-RubberDucky GooseDesktop Prank to spread awareness of locking your computer (made a  prank for peers in my environment to make sure we're having best practices in our enviroment which means locking your computer when you walk away
+RubberDucky GooseDesktop Prank to spread awareness of locking your computer (made a  prank for peers in my environment to make sure we're having best practices in our enviroment which means locking your computer when you walk away)
 
 credit to samperson@https://samperson.itch.io/desktop-goose
 
