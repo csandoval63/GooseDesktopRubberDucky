@@ -1,4 +1,4 @@
-REM # Credit goes to creator of goosefile
+REM # Credit goes to creator of DesktopGoose
 DELAY 2000
 WINDOWS d
 DELAY 450
@@ -13,7 +13,7 @@ STRING mode con:cols=18 lines=1
 ENTER
 REM *** sets execution policy to unrestricted to run the ps1 file, (ps1 file sets policy back to default after ***
 DELAY 450
-STRING Set-ExecutionPolicy unrestricted
+STRING Set-ExecutionPolicy -scope CurrentUser Unrestricted
 ENTER
 DELAY 1000
 STRING Y
