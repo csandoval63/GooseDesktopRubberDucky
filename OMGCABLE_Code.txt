@@ -10,7 +10,7 @@ REM --> make window small
 STRING mode con:cols=18 lines=1
 ENTER
 REM --> Allows powershell scripts to be run, is set back to restricted in ps1 file after
-STRING Set-ExecutionPolicy -scope CurrentUser Unrestricted
+STRING powershell Set-ExecutionPolicy -scope CurrentUser Unrestricted
 ENTER
 DELAY 500
 STRING Y
