@@ -14,3 +14,6 @@ Got banned from discord server for "Malware", welp it was a fun 10-20 mins in th
 Reason: "reason: zero tolerance malware policy, sorry :/"
 
 ![NotEvenMalwareThough](https://github.com/csandoval63/GooseDesktopRubberDucky/blob/master/bannedLol.JPG)
+
+### Disclaimer
+>These resources are only for testing and academic purposes and can only be used where strict consent has been given. Do not use them for illegal purposes! It is the end user’s responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by these tools, programs, scripts and software.
